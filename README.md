@@ -1,7 +1,7 @@
 UBUA is minecraft project for Ukraine community players
-- UBUAM - moded version (available) link: https://github.com/LGRain/ubuam
-- UBTUA - Terraria version (available) link: https://github.com/LGRain/ubtua
-- UBFUA - Factorio version (available)
+- moded version (available) link: https://github.com/LGRain/ubuam
+- Terraria version (available) link: https://github.com/LGRain/ubtua
+- Factorio version (available)
 - This is ubua github library
 - Best Minecraft launchers:
 - xmcl: https://xmcl.app/uk/
