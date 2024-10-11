@@ -1,4 +1,4 @@
-UBUA is minecraft project for Ukraine community players
+SkyIsland is minecraft project for Ukraine community players
 - moded version (available) link: https://github.com/LGRain/ubuam
 - Terraria version (available) link: https://github.com/LGRain/ubtua
 - Factorio version (available)
