@@ -1,6 +1,6 @@
 SkyIsland is minecraft project for Ukraine community players
-- moded version (unavailable) link: https://github.com/LGRain/ubuam
-- Terraria version (unavailable) link: https://github.com/LGRain/ubtua
+- moded version (unavailable) link: 
+- Terraria version (unavailable) link: 
 - Factorio version (unavailable)
 - This is ubua github library
 - Best Minecraft launchers:
